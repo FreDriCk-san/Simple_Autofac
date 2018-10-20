@@ -1,0 +1,12 @@
+D:\Visual Studio Projects\C#\Simple_Autofac\DI_Tests\bin\Debug\DI_Tests.dll
+D:\Visual Studio Projects\C#\Simple_Autofac\DI_Tests\bin\Debug\DI_Tests.pdb
+D:\Visual Studio Projects\C#\Simple_Autofac\DI_Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Visual Studio Projects\C#\Simple_Autofac\DI_Tests\bin\Debug\Simple_Autofac.exe
+D:\Visual Studio Projects\C#\Simple_Autofac\DI_Tests\bin\Debug\Simple_Autofac.pdb
+D:\Visual Studio Projects\C#\Simple_Autofac\DI_Tests\bin\Debug\Simple_Autofac.exe.config
+D:\Visual Studio Projects\C#\Simple_Autofac\DI_Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Visual Studio Projects\C#\Simple_Autofac\DI_Tests\obj\Debug\DI_Tests.csprojAssemblyReference.cache
+D:\Visual Studio Projects\C#\Simple_Autofac\DI_Tests\obj\Debug\DI_Tests.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\C#\Simple_Autofac\DI_Tests\obj\Debug\DI_Tests.csproj.CopyComplete
+D:\Visual Studio Projects\C#\Simple_Autofac\DI_Tests\obj\Debug\DI_Tests.dll
+D:\Visual Studio Projects\C#\Simple_Autofac\DI_Tests\obj\Debug\DI_Tests.pdb

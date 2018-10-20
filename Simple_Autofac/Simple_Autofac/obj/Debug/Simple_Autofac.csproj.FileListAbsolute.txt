@@ -1,1 +1,8 @@
 c:\users\temp.dom201.000\documents\visual studio 2015\Projects\Simple_Autofac\Simple_Autofac\bin\Debug\Simple_Autofac.exe.config
+D:\Visual Studio Projects\C#\Simple_Autofac\Simple_Autofac\bin\Debug\Simple_Autofac.exe.config
+D:\Visual Studio Projects\C#\Simple_Autofac\Simple_Autofac\bin\Debug\Simple_Autofac.exe
+D:\Visual Studio Projects\C#\Simple_Autofac\Simple_Autofac\bin\Debug\Simple_Autofac.pdb
+D:\Visual Studio Projects\C#\Simple_Autofac\Simple_Autofac\obj\Debug\Simple_Autofac.csprojAssemblyReference.cache
+D:\Visual Studio Projects\C#\Simple_Autofac\Simple_Autofac\obj\Debug\Simple_Autofac.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\C#\Simple_Autofac\Simple_Autofac\obj\Debug\Simple_Autofac.exe
+D:\Visual Studio Projects\C#\Simple_Autofac\Simple_Autofac\obj\Debug\Simple_Autofac.pdb
