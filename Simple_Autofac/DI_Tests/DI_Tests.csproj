@@ -51,6 +51,11 @@
   </Choose>
   <ItemGroup>
     <Compile Include="AutofacTest.cs" />
+    <Compile Include="TestClasses\ConstructorClass.cs" />
+    <Compile Include="TestClasses\DefaultClass.cs" />
+    <Compile Include="TestInterfaces\IConstructorClass.cs" />
+    <Compile Include="TestInterfaces\IDefaultClassA.cs" />
+    <Compile Include="TestInterfaces\IDefaultClassB.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -59,6 +64,7 @@
       <Name>Simple_Autofac</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>
